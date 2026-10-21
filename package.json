@@ -1,0 +1,10 @@
+{ 
+  "name": "minha-api", 
+  "version": "1.0.0", 
+  "private": true, 
+  "description": "API simples para atividade de Docker", 
+  "main": "app.js", 
+  "scripts": { 
+    "start": "node app.js" 
+  } 
+} 
